@@ -2,3 +2,7 @@ Bước 1: Tải về và giải nén project
 Bước 2: Đặt project vào thư mục www của WampServer 
 Bước 3: Mở localhost -> mở Phpmyadmin -> Tạo database tên "casestore" -> import database đi kèm với project vào.
 Bước 4: chạy trên localhost với đường dẫn http://localhost:81/Case_Store/
+
+Truy cập vào trang admin: http://localhost:81/Case_Store/admin/
+Tài khoản admin: admin
+Password: 123
